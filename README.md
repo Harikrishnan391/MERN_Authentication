@@ -14,13 +14,13 @@ This project involves implementing a robust user authentication system using the
 Clone the project
 
 ```bash
-  git clone https://link-to-project](https://github.com/Harikrishnan391/MERN_Authentication.git
+  git clone https://github.com/Harikrishnan391/MERN_Authentication.git
 ```
 
 Navigate to the project directory.
 
 ```bash
-  cd project
+  cd MERN_Authentication
 ```
 
 Install dependencies

@@ -1,3 +1,5 @@
+![Screenshot from 2024-06-07 05-15-48](https://github.com/Harikrishnan391/MERN_Authentication/assets/128588657/57a969b1-9946-4577-91fe-c3b0ff06fdcb)
+
 # User Authentication with MERN Stack 
 
 # Overview
